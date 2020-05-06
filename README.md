@@ -2,9 +2,9 @@
 something snazzy
 
 
-## Hello everyone
+## Hello _everyone_
 ### How are you doing?
 #### I'm doing alright
 ##### This is a test
-* Dubious
-* Circumstances
+* _Dubious_
+* _Circumstances_
